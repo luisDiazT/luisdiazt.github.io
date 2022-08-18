@@ -1,6 +1,17 @@
+*{
+  box-sizing:border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
 body {
   text-align: center;
-  background-color: #011F3F;
+  background-image: radial-gradient(circle, #7950f2 10%, #38aacd 95%);
+
 }
 
 #level-title {
@@ -32,19 +43,19 @@ body {
 }
 
 .red {
-  background-color: red;
+  background-color: tomato;
 }
 
 .green {
-  background-color: green;
+  background-color: olivedrab;
 }
 
 .blue {
-  background-color: blue;
+  background-color: cornflowerblue;
 }
 
 .yellow {
-  background-color: yellow;
+  background-color: rgb(232, 211, 91);
 }
 
 .pressed {
