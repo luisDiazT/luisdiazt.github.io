@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hola me llamo Luis 👋
+### I'm working in some projects in videogames. Feel free to visit https://luisdiazt.github.io/
 
 <!--
 **luisDiazT/luisDiazT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
